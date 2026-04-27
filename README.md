@@ -3,6 +3,8 @@
 
 Service Operations Automation
 Project Overview
+
+
 This repository showcases Bash scripting techniques used to automate repetitive administrative tasks. In a Service Operations environment, these scripts are essential for reducing manual overhead, minimizing human error, and ensuring system reliability.
 
 Technical Skills Demonstrated
